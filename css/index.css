@@ -1,0 +1,12 @@
+p {
+    color: red;
+}
+a:hover {
+    font-weight: bold;
+}
+header {
+    color: blue;
+}
+h3 {
+    color: orange;
+}
